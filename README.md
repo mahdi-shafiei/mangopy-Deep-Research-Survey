@@ -1,2 +1,4 @@
 # Deep-Research-Survey
-Comprehensive Survey of Deep Research
+Systematic Survey of Deep Research
+
+We will update this repo as soon as possible.

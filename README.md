@@ -10,7 +10,7 @@ We will update this repo as soon as possible.
 
 # 📞 Contact
 
-Feel free to contact if there are any problems: zhengliang.shii@gmail.com; shizhl@mail.sdu.edu.cn
+Feel free to contact us if there are any problems: zhengliang.shii@gmail.com; shizhl@mail.sdu.edu.cn
 
 
 # 📄 Citation

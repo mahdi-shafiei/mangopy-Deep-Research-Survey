@@ -11,7 +11,7 @@ We will update this repo as soon as possible.
 # Table of Content
 
 # Reading List
-If you are interested in Deep Research, we recommend you to read the papers presented below, most of which are representative and classic. Having a quick look at the list below to gain an understanding of Deep Research!
+To get started with Deep Research, we recommend the representative and often seminal papers listed below. Reviewing this selection will provide a solid overview of the field.
 
 
 # ❤️ Acknowledgement

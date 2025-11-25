@@ -27,4 +27,11 @@ Feel free to contact us if there are any problems: zhengliang.shii@gmail.com; sh
 # 📄 Citation
 
 ```txt
+@misc{shi2025deepresearch,
+  title = {Deep Research: A Systematic Survey},
+  author = {Shi, Zhengliang and Chen, Yiqun and Li, Haitao and Sun, Weiwei and Ni, Shiyu and Lyu, Yougang and Fan, Run-Ze and Jin, Bowen and Weng, Yixuan and Zhu, Minjun and Xie, Qiujie and Guo, Xinyu and Yang, Qu and Wu, Jiayi and Zhao, Jujia and Tang, Xiaqiang and Ma, Xinbei and Wang, Cunxiang and Mao, Jiaxin and Ai, Qingyao and Huang, Jen-Tse and Wang, Wenxuan and Zhang, Yue and Yang, Yiming and Tu, Zhaopeng and Ren, Zhaochun},
+  year = {2025},
+  howpublished = {\url{https://github.com/mangopy/Deep-Research-Survey}},
+  note = {Accessed: 2025-11-22}
+}
 ```

@@ -25,7 +25,7 @@ Feel free to contact us if there are any problems: zhengliang.shii@gmail.com; sh
 
 
 # 📄 Citation
-
+If you find this work useful, please cite:
 ```txt
 @misc{shi2025deepresearch,
   title = {Deep Research: A Systematic Survey},

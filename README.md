@@ -8,9 +8,9 @@ We will update this repo as soon as possible.
 # 📣 Latest News
 [2025.11.25] 🎉🎉🎉 We release our survey "Deep Research: A systematic Survey". Thanks to my awesome co-authors🤩. Feel free to contact me if you are interested in this topic and want to discuss me.
 
-# Table of Content
+# 🎬 Table of Content
 
-# Reading List
+# 🤔 Reading List
 To get started with Deep Research, we recommend the representative and often seminal papers listed below. Reviewing this selection will provide a solid overview of the field.
 
 

@@ -30,6 +30,9 @@ As the field of deep research continues to evolve rapidly, we are committed to c
 [2025.11.25] 🎉🎉🎉 We release our survey [Deep Research: A systematic Survey](https://github.com/mangopy/Deep-Research-Survey/blob/main/Deep-Research-Survey.pdf). Thanks to my awesome co-authors🤩. Feel free to contact me if you are interested in this topic and want to discuss me.
 
 # 🎬 Table of Content
+> will be updated as soon as possible!
+
+ ## 📑 Table of Contents
 - [🌟 Overview](#-overview)
 - [📊 Latest News](#-latest-news)
 - [📚 Reading List](#-reading-list)
@@ -141,6 +144,27 @@ To get started with Deep Research, we recommend the representative and often sem
 | EMNLP 2025 Findings | 24 Jul 2025 | Dynamic Context Compression for Efficient RAG | https://arxiv.org/abs/2507.22931v2 |
 
 
+# Training Paradigm
+## Supervised Fine-tuning
+Most work below focuses on data synthesis, i.e., designing scalable approaches or frameworks to construct high-quality, large-scale training datasets to train LLM-based agents.
+
+|Venue|Date|Paper Title|URL|
+|:---:|:---:|:---:|:---:|
+|      NeurIPS 2025      | 2025.05.28 |                            WebDancer: Towards Autonomous Information Seeking Agency                             |                  [https://arxiv.org/abs/2505.22648](https://arxiv.org/abs/2505.22648)                  |
+|     arXiv preprint     | 2025.07.03 |                            WebSailor: Navigating Super-human Reasoning for Web Agent                            |                  [https://arxiv.org/abs/2507.02592](https://arxiv.org/abs/2507.02592)                  |
+|     arXiv preprint     | 2025.07.20 |                 WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization                  |                  [https://arxiv.org/abs/2507.15061](https://arxiv.org/abs/2507.15061)                  |
+|      NeurIPS 2025      | 2025.04.30 |                   WebThinker: Empowering Large Reasoning Models with Deep Research Capability                   |                  [https://arxiv.org/abs/2504.21776](https://arxiv.org/abs/2504.21776)                  |
+|     arXiv preprint     | 2025.07.06 |                 WebSynthesis: World-Model-Guided MCTS for Efficient WebUI-Trajectory Synthesis                  |                  [https://arxiv.org/abs/2507.04370](https://arxiv.org/abs/2507.04370)                  |
+|     arXiv preprint     | 2025.05.26 |               MaskSearch: A Universal Pre-Training Framework to Enhance Agentic Search Capability               |                  [https://arxiv.org/abs/2505.20285](https://arxiv.org/abs/2505.20285)                  |
+|     arXiv preprint     | 2025.08.06 |         Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL         |                  [https://arxiv.org/abs/2508.13167](https://arxiv.org/abs/2508.13167)                  |
+| Findings of EMNLP 2025 | 2025.05.26 | WebCoT: Enhancing Web Agent Reasoning by Reconstructing Chain-of-Thought in Reflection, Branching, and Rollback | [https://aclanthology.org/2025.findings-emnlp.276/](https://aclanthology.org/2025.findings-emnlp.276/) |
+|        ACL 2025        | 2024.10.18 |                     Synthesizing Post-Training Data for LLMs through Multi-Agent Simulation                     |      [https://aclanthology.org/2025.acl-long.1136/](https://aclanthology.org/2025.acl-long.1136/)      |
+|     arXiv preprint     | 2024.06.28 |                           Scaling Synthetic Data Creation with 1,000,000,000 Personas                           |                  [https://arxiv.org/abs/2406.20094](https://arxiv.org/abs/2406.20094)                  |
+|      NeurIPS 2025      | 2025.05.26 |               Iterative Self-Incentivization Empowers Large Language Models as Agentic Searchers                |                  [https://arxiv.org/abs/2505.20128](https://arxiv.org/abs/2505.20128)                  |
+|       EMNLP 2025       | 2025.05.28 |                              EvolveSearch: An Iterative Self-Evolving Search Agent                              |                  [https://arxiv.org/abs/2505.22501](https://arxiv.org/abs/2505.22501)                  |
+|      NeurIPS 2025      | 2025.05.06 |                          Absolute Zero: Reinforced Self-Play Reasoning with Zero Data                           |                  [https://arxiv.org/abs/2505.03335](https://arxiv.org/abs/2505.03335)                  |
+
+
 ## Agentic End-to-End Reinforcement Learning
 
 | Venue      | Date         | Paper Title                                                                | URL |
@@ -171,6 +195,9 @@ To get started with Deep Research, we recommend the representative and often sem
 | Arxiv      | 22 May 2025  | Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via RL               | https://arxiv.org/abs/2505.16410 |
 | Arxiv      | 26 Jul 2025  | Agentic Reinforced Policy Optimization                                     | https://arxiv.org/abs/2507.19849 |
 | Arxiv      | 16 Oct 2025  | Agentic Entropy-Balanced Policy Optimization                               | https://arxiv.org/abs/2510.14545 |
+
+
+
 
 ## Datasets & Benchmarks
 

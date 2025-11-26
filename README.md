@@ -85,7 +85,7 @@ To get started with Deep Research, we recommend the representative and often sem
 | Venue              | Date        | Paper Title                                                  | URL                                  |
 | ------------------ | ----------- | ------------------------------------------------------------ | ------------------------------------ |
 | EMNLP 2023         | 11 May 2023 | Active Retrieval Augmented Generation                        | https://arxiv.org/abs/2305.06983     |
-| ACL 2024           | 18 Feb 2024 | When Do LLMs Need Retrieval Augmentation? Mitigating LLMs' Overconfidence Helps Retrieval Augmentation |                                      |
+| ACL 2024           | 18 Feb 2024 | When Do LLMs Need Retrieval Augmentation? Mitigating LLMs' Overconfidence Helps Retrieval Augmentation |  https://aclanthology.org/2024.findings-acl.675/                              |
 | ACL 2024           | 12 Mar 2024 | DRAGIN: Dynamic Retrieval Augmented Generation based on the Information Needs of Large Language Models | https://arxiv.org/pdf/2403.10081     |
 | SIGIR-AP 2025      | 16 Feb 2024 | Retrieve Only When It Needs: Adaptive Retrieval Augmentation for Hallucination Mitigation in Large Language Models | https://arxiv.org/abs/2402.10612     |
 | ACL 2025           | 29 May 2024 | CtrlA: Adaptive Retrieval-Augmented Generation via Inherent Control | https://arxiv.org/abs/2405.18727     |

@@ -11,8 +11,8 @@ If you like our project, please give us a star ⭐ on GitHub for the latest upda
 
 # 🎬 Table of Content
 > will be updated as soon as possible!
- ## 📑 Table of Contents
 
+ ## 📑 Table of Contents
 - [🌟 Overview](#-overview)
 - [📊 Latest News](#-news)
 - [📚 Reading List](#-resource-list)
@@ -23,10 +23,10 @@ If you like our project, please give us a star ⭐ on GitHub for the latest upda
   - [Agentic End-to-End Reinforcement Learning](#rl)
   - [Supervised Fine-tuning](#sft)
   - [Datasets & Benchmarks](#datasets--benchmarks)
-  - [Acknowledgement](#ack)
-  - [Contact](#contact)
-  - [Citation](#citation)
-- [🤝 Contributing](#-contributing)
+ - [Acknowledgement](#ack)
+ - [Contact](#contact)
+ - [Citation](#citation)
+
 
 # 🤔 Reading List
 > will be updated as soon as possible!

@@ -42,8 +42,9 @@ To get started with Deep Research, we recommend the representative and often sem
 | Arxiv      | 3 Feb 2025   | DeepRAG: Thinking to Retrieve Step by Step for Large Language Models        | https://arxiv.org/abs/2502.01142 |
 | Arxiv      | 1 Aug 2025   | MAO-ARAG: Multi-Agent Orchestration for Adaptive Retrieval-Augmented Generation | https://arxiv.org/abs/2508.01005 |
 
+## Information Acquisition
 
-### Retrieval Timing
+### Knowledge Boundary
 | Venue              | Date         | Paper Title                                                  | URL                                  |
 | ------------------ | ------------ | ------------------------------------------------------------ | ------------------------------------ |
 | ICML 2017          | 14 Jun 2017  | On Calibration of Modern Neural Networks                     | https://arxiv.org/abs/1706.04599     |
@@ -63,7 +64,7 @@ To get started with Deep Research, we recommend the representative and often sem
 | NeurIPS 2023       | 12 Dec 2023  | Alignment for Honesty                                        | https://arxiv.org/abs/2312.07000     |
 | Arxiv              | 20 Oct 2025 | Annotation-Efficient Universal Honesty Alignment             | https://arxiv.org/abs/2510.17509     |
 
-
+### Retrieval Timing
 | Venue              | Date        | Paper Title                                                  | URL                                  |
 | ------------------ | ----------- | ------------------------------------------------------------ | ------------------------------------ |
 | EMNLP 2023         | 11 May 2023 | Active Retrieval Augmented Generation                        | https://arxiv.org/abs/2305.06983     |

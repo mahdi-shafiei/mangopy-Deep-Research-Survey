@@ -4,13 +4,30 @@
 
 If you like our project, please give us a star ⭐ on GitHub for the latest update. 
 
+# Overview
 
 # 📣 Latest News
 [2025.11.25] 🎉🎉🎉 We release our survey [Deep Research: A systematic Survey](https://github.com/mangopy/Deep-Research-Survey/blob/main/Deep-Research-Survey.pdf). Thanks to my awesome co-authors🤩. Feel free to contact me if you are interested in this topic and want to discuss me.
 
 # 🎬 Table of Content
 > will be updated as soon as possible!
- 
+ ## 📑 Table of Contents
+
+- [🌟 Overview](#-overview)
+- [📊 Latest News](#-news)
+- [📚 Reading List](#-resource-list)
+  - [Query Planning](#agent-collaboration)
+  - [Knowledge Acquisition](#agent-construction)
+    - [Knowledge Boundary](#boundary)
+    - [Retrieval Timing](#timing)
+  - [Agentic End-to-End Reinforcement Learning](#rl)
+  - [Supervised Fine-tuning](#sft)
+  - [Datasets & Benchmarks](#datasets--benchmarks)
+  - [Acknowledgement](#ack)
+  - [Contact](#contact)
+  - [Citation](#citation)
+- [🤝 Contributing](#-contributing)
+
 # 🤔 Reading List
 > will be updated as soon as possible!
 
@@ -112,6 +129,8 @@ To get started with Deep Research, we recommend the representative and often sem
 | Arxiv      | 22 May 2025  | Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via RL               | https://arxiv.org/abs/2505.16410 |
 | Arxiv      | 26 Jul 2025  | Agentic Reinforced Policy Optimization                                     | https://arxiv.org/abs/2507.19849 |
 | Arxiv      | 16 Oct 2025  | Agentic Entropy-Balanced Policy Optimization                               | https://arxiv.org/abs/2510.14545 |
+
+## Datasets & Benchmarks
 
 
 # ❤️ Acknowledgement

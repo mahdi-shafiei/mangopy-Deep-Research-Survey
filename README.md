@@ -23,9 +23,9 @@ If you like our project, please give us a star ⭐ on GitHub for the latest upda
   - [Agentic End-to-End Reinforcement Learning](#agentic-end-to-end-reinforcement-learning)
   - [Supervised Fine-tuning](#sft)
   - [Datasets & Benchmarks](#datasets--benchmarks)
- - [Acknowledgement](#acknowledgement)
- - [Contact](#contact)
- - [Citation](#citation)
+ - [Acknowledgement](#-acknowledgement)
+ - [Contact](#-contact)
+ - [Citation](#-citation)
 
 
 # 📚 Reading List

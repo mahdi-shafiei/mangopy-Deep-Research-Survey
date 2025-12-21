@@ -7,6 +7,7 @@
 [![Web](https://img.shields.io/badge/WEB-Quick--Look-6F42C1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deep-research-survey.github.io/)
 [![Status](https://img.shields.io/badge/STATUS-Active-brightgreen?style=for-the-badge)]()
 [![Preprints](https://img.shields.io/badge/Preprints.org-202511.2077-blue?style=for-the-badge)](https://www.preprints.org/manuscript/202511.2077/v1)
+[![arXiv](https://img.shields.io/badge/arXiv-2512.02038v1-b31b1b?style=for-the-badge)](https://arxiv.org/abs/2512.02038)
 
 </div>
 
@@ -307,11 +308,11 @@ Feel free to contact us if there are any problems: zhengliang.shii@gmail.com; sh
 # 🥳 Citation
 If you find this work useful, please cite:
 ```txt
-@misc{shi2025deepresearch,
+@article{shi2025deepresearch,
   title = {Deep Research: A Systematic Survey},
+  title={Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning},
   author = {Shi, Zhengliang and Chen, Yiqun and Li, Haitao and Sun, Weiwei and Ni, Shiyu and Lyu, Yougang and Fan, Run-Ze and Jin, Bowen and Weng, Yixuan and Zhu, Minjun and Xie, Qiujie and Guo, Xinyu and Yang, Qu and Wu, Jiayi and Zhao, Jujia and Tang, Xiaqiang and Ma, Xinbei and Wang, Cunxiang and Mao, Jiaxin and Ai, Qingyao and Huang, Jen-Tse and Wang, Wenxuan and Zhang, Yue and Yang, Yiming and Tu, Zhaopeng and Ren, Zhaochun},
-  year = {2025},
-  howpublished = {\url{https://github.com/mangopy/Deep-Research-Survey}},
-  note = {Accessed: 2025-11-22}
+  journal={arXiv preprint arXiv:2512.02038},
+  year={2025}
 }
 ```

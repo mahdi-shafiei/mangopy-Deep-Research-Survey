@@ -310,7 +310,6 @@ If you find this work useful, please cite:
 ```txt
 @article{shi2025deepresearch,
   title = {Deep Research: A Systematic Survey},
-  title={Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning},
   author = {Shi, Zhengliang and Chen, Yiqun and Li, Haitao and Sun, Weiwei and Ni, Shiyu and Lyu, Yougang and Fan, Run-Ze and Jin, Bowen and Weng, Yixuan and Zhu, Minjun and Xie, Qiujie and Guo, Xinyu and Yang, Qu and Wu, Jiayi and Zhao, Jujia and Tang, Xiaqiang and Ma, Xinbei and Wang, Cunxiang and Mao, Jiaxin and Ai, Qingyao and Huang, Jen-Tse and Wang, Wenxuan and Zhang, Yue and Yang, Yiming and Tu, Zhaopeng and Ren, Zhaochun},
   journal={arXiv preprint arXiv:2512.02038},
   year={2025}
